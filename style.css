@@ -1,9 +1,8 @@
 html, body {
-  background-color: black;
-  margin: 0;
+  background-color: lightGray;
+  margin: 90px 0 0 190px;
   padding: 0;
 }
 canvas {
   display: block;
-  border-radius: 10px;
 }
