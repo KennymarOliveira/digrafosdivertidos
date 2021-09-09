@@ -31,7 +31,7 @@ function preload() {
   imgCoelho = loadImage("coelho.png");
   imgConcha = loadImage("concha.png");
   imgCozinheira = loadImage("cozinheira.png");
-  imgFolha = loadImage("folha.png");
+  imgFolha = loadImage("/folha.png");
   imgIlha = loadImage("ilha.png");
   imgJoaninha = loadImage("joaninha.png");
   imgMachado = loadImage("machado.png");
