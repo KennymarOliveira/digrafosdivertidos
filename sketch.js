@@ -1264,5 +1264,4 @@ function gameOver(){
   fill(0);
   textSize(30);
   text("Aperte backspace para voltar ao menu...", 35, 295);
-
 }
